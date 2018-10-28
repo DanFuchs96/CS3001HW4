@@ -13,9 +13,6 @@ from sklearn import preprocessing as pp
 
 
 def main():
-    print("Playground active \n")
-    ###########################
-
     # Pre-processing config
     remove_media = False
     remove_enemy = True
